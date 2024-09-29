@@ -1,0 +1,66 @@
+{
+    "titulo_pagina": "Mejores Laptops",
+    "datos_tienda": {
+        "nombre": "Tienda de Computadores",
+        "direccion": "Calle 123 # 45-67",
+        "telefono": "1234567",
+        "correo": "tiendacomputadores@mitienda.com"
+    },
+    "computadores": [
+        {
+            "nombre": "Laptop Lenovo IdeaPad 3",
+            "descripcion": "Laptop con procesador Intel Core i5, 8GB de RAM y 512GB SSD.",
+            "precio": 749.99,
+            "imagen": "https://p3-ofp.static.pub/fes/cms/2022/12/28/lnfmv13jwu5nb0xzzmczeytk58lh6e366455.png"
+        },
+        {
+            "nombre": "MacBook Air M1",
+            "descripcion": "Laptop de Apple con chip M1, 8GB de RAM y 256GB SSD.",
+            "precio": 999.99,
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_614885-MLA49588273946_042022-O.webp/150"
+        },
+        {
+            "nombre": "HP Pavilion Gaming",
+            "descripcion": "Laptop gaming con Intel     Core i7, 16GB de RAM y 1TB SSD.",
+            "precio": 1299.99,
+            "imagen": "https://d34vmoxq6ylzee.cloudfront.net/catalog/product/4/4/445L1LA-1_T1679066245.png"
+        },
+        {
+            "nombre": "Dell XPS 13",
+            "descripcion": "Ultrabook con Intel Core i7, 16GB de RAM y 512GB SSD.",
+            "precio": 1199.99,
+            "imagen": "https://bucaramanga.solutekla.com/photo/1/dell/portatiles/producto_nuevo_xps_13_9380133_fhd_1920_x_1080_infinityedge_display8th_generation_intel_core_i58265u_processor_6m_cache_up_to_39_ghz_4_cores_intelr_uhd_graphics_620windows_10_pro_64bit_spanish52whr_4c8gb_lpddr3_2133mhzkiller_1435_80211ac_2x2_wifi_and_bluetooth_41256gb_m2_pcie_nvme_solid_state_drivekiller_1435_80211ac_2x2_wifi_and_bluetooth_411_year_premium_support__1_year_complete/producto_nuevo_xps_13_9380133_fhd_1920_x_1080_infinityedge_display8th_generation_intel_core_i58265u_processor_6m_cache_up_to_39_ghz_4_cores_intelr_uhd_graphics_620windows_10_pro_64bit_spanish52whr_4c8gb_lpddr3_2133mhzkiller_1435_80211ac_2x2_wifi_and_bluetooth_41256gb_m2_pcie_nvme_solid_state_drivekiller_1435_80211ac_2x2_wifi_and_bluetooth_411_year_premium_support__1_year_complete_0001"
+        },
+        {
+            "nombre": "ASUS ROG Zephyrus G14",
+            "descripcion": "Laptop gaming con AMD Ryzen 9, 16GB de RAM y 1TB SSD.",
+            "precio": 1399.99,
+            "imagen": "https://dlcdnwebimgs.asus.com/gain/74C87373-E28C-44A0-B6E7-AD0B77DF78FE/w250"
+        },
+        {
+            "nombre": "Acer Aspire 5",
+            "descripcion": "Laptop con procesador AMD Ryzen 5, 8GB de RAM y 256GB SSD.",
+            "precio": 549.99,
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_914344-MLA48914576234_012022-O.webp"
+        },
+        {
+            "nombre": "MSI GF65 Thin",
+            "descripcion": "Laptop gaming con Intel Core i5, 8GB de RAM y 512GB SSD.",
+            "precio": 899.99,
+            "imagen": "https://m.media-amazon.com/images/I/710tQ-PKxOL.jpg"
+        },
+        {
+            "nombre": "Microsoft Surface Laptop 4",
+            "descripcion": "Laptop con procesador Intel Core i5, 8GB de RAM y 512GB SSD.",
+            "precio": 999.99,
+            "imagen": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LiXm?ver=45be&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true"
+        },
+        {
+            "nombre": "Razer Blade 15",
+            "descripcion": "Laptop gaming con Intel Core i7, 16GB de RAM y 1TB SSD.",
+            "precio": 1999.99,
+            "imagen": "https://http2.mlstatic.com/D_NQ_NP_870525-MCO72391022474_102023-O.webp"
+        }
+    ]
+
+}
